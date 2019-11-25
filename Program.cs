@@ -6,7 +6,7 @@ namespace MetodoClass
     {
         private int idade;
         private string nome;
-
+        // Comentario do André
         public Pessoa(string nomePessoa, int idadePessoa)
         {
             this.nome = nomePessoa;
